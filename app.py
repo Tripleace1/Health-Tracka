@@ -8,7 +8,7 @@ import json
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import socketserver
 import threading
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
 import base64
 
 # Custom CSS for styling
